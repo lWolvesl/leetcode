@@ -17,4 +17,9 @@ class Solution {
         }
         return ans;
     }
+
+    public static void main(String[] args) {
+        Solution s = new Solution();
+        System.out.println(s.maxFrequencyElements(new int[] {1, 2, 3, 4, 5}));
+    }
 }
