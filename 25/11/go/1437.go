@@ -1,4 +1,4 @@
-package C
+package L12
 
 func kLengthApart(nums []int, k int) bool {
 	last := -k - 1

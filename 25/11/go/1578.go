@@ -1,4 +1,4 @@
-package A
+package L12
 
 func minCost(colors string, neededTime []int) int {
 	count := 0

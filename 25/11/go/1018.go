@@ -1,4 +1,4 @@
-package D
+package L12
 
 func prefixesDivBy5(nums []int) []bool {
 	ans := make([]bool, len(nums))

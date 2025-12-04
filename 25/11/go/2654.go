@@ -1,4 +1,4 @@
-package B
+package L12
 
 func minOperations(nums []int) int {
 	n, gcdAll, cnt1 := len(nums), 0, 0
