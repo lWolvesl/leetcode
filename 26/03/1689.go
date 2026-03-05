@@ -1,4 +1,4 @@
-package A
+package main
 
 func minPartitions(n string) int {
 	res := 0

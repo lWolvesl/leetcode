@@ -1,4 +1,4 @@
-package A
+package main
 
 func numSpecial(mat [][]int) int {
 	res := 0
